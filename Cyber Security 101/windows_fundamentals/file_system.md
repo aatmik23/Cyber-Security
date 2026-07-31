@@ -18,12 +18,11 @@ The permissions are:
 - **List folder contents**
 - **Read**
 - **Write**
+![](../assets/Pasted%20image%2020260731123744.png)
 
-![[Pasted image 20260731020328.png]]
+![](../assets/Pasted%20image%2020260731123805.png)
 
-![[Pasted image 20260731020456.png]]
 
-![[Pasted image 20260731121535.png]]
 
 Another feature of NTFS is **Alternate Data Streams** ( **ADS** ).
 
