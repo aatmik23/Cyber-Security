@@ -23,6 +23,7 @@ The permissions are:
 
 ![[Pasted image 20260731020456.png]]
 
+![[Pasted image 20260731121535.png]]
 
 Another feature of NTFS is **Alternate Data Streams** ( **ADS** ).
 
