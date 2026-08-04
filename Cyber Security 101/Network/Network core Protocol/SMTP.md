@@ -1,0 +1,13 @@
+
+sending email needs its own protocol. Simple Mail Transfer Protocol 
+
+- `HELO` or `EHLO` initiates an SMTP session
+- `MAIL FROM` specifies the sender’s email address
+- `RCPT TO` specifies the recipient’s email address
+- `DATA` indicates that the client will begin sending the content of the email message
+- `.` is sent on a line by itself to indicate the end of the email message
+
+![](../../assets/Pasted%20image%2020260803220740.png)
+
+
+![](../../assets/Pasted%20image%2020260803220758.png)

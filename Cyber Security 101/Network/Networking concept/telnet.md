@@ -24,3 +24,14 @@ press the `CTRL` + `]` keys simultaneously.
 ### What is the `Host` header?
 
 In HTTP/1.1, the `Host` header tells the web server **which website you want**.
+
+
+
+![](../../assets/Pasted%20image%2020260803213800.png)
+
+
+we can use telnet to directly get file without adding hostname
+
+GET /file.html HTTP/1.1
+
+depending on the server
